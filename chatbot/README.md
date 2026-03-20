@@ -50,12 +50,13 @@ git clone https://github.com/your-username/first-chatbot.git
 cd first-chatbot
 npm install
 npm run dev
+```
 
---- 
+---
 
-📂 Project Structure
+## 📂 Project Structure
 
-chatbot/
+```chatbot/
 ├── node_modules/          # Installed dependencies
 ├── public/
 │   └── chatbot-icon.png   # Public assets (favicon, icons, etc.)
@@ -76,14 +77,16 @@ chatbot/
 ├── package.json           # Project dependencies and scripts
 ├── README.md              # Project documentation
 └── vite.config.js         # Vite configuration
-
+```
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
 
 --- 
 
-📧 Contact
+## 📧 Contact
 Created by Yash Tagad – inspired by CodingNepal.
+
+---
